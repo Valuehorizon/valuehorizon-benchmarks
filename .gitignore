@@ -1,0 +1,14 @@
+*.coverage
+*.egg-info/
+*.pyc
+*~
+*coverage/
+.tox/
+db.sqlite
+dist/
+docs/_build/
+docs/build/
+docs/source/_static/
+docs/source/_templates/
+local_settings.py
+build/

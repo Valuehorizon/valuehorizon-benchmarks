@@ -1,0 +1,11 @@
+# Based on check_manifest.py
+include AUTHORS
+include DESCRIPTION
+include LICENSE
+include *.py
+include *.txt
+include .coveragerc
+include Makefile
+recursive-include docs *.md
+
+graft benchmarks
