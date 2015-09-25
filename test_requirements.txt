@@ -12,3 +12,5 @@ Django==1.8.1
 numpy==1.9.2
 pandas==0.13.0
 -e git://github.com/valuehorizon/valuehorizon-forex.git#egg=forex
+-e git://github.com/valuehorizon/valuehorizon-holiday.git#egg=holiday
+-e git://github.com/valuehorizon/valuehorizon-countries.git#egg=countries
